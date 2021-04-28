@@ -1,0 +1,195 @@
+{
+  "questions":
+   [
+       {
+       	"question": "What color is a ruby?",
+       	"answers": {
+       		"a": "Blue",
+       		"b": "Green",
+       		"c": "Red",
+       		"d": "Purple"
+       	},
+       	"correct_answer": "c"
+       },
+       {
+       	"question": "What is the capital of New York?",
+       	"answers": {
+       		"a": "New York City",
+       		"b": "Albany",
+       		"c": "Syracuse",
+       		"d": "Rochester"
+       	},
+       	"correct_answer": "b"
+       },
+       {
+       	"question": "When was Apple founded?",
+       	"answers": {
+       		"a": "1976",
+       		"b": "1986",
+       		"c": "1970",
+       		"d": "1983"
+       	},
+       	"correct_answer": "a"
+       },
+       {
+       	"question": "What frequency does bluetooth operate within?",
+       	"answers": {
+       		"a": "200 Mhz to 210 Mhz",
+       		"b": "240 Mhz to 248 Mhz",
+       		"c": "2.300 to 2.385 GHz",
+       		"d": "2.400 to 2.485 GHz"
+       	},
+       	"correct_answer": "d"
+       },
+       {
+       	"question": "What is the most popular Internet Browser by market share?",
+       	"answers": {
+       		"a": "Firefox",
+       		"b": "Opera",
+       		"c": "Brave",
+       		"d": "Chrome"
+       	},
+       	"correct_answer": "d"
+       },
+       {
+       	"question": "What language is Mozilla rewriting their web browser in?",
+       	"answers": {
+       		"a": "Go",
+       		"b": "C",
+       		"c": "Rust",
+       		"d": "C++"
+       	},
+       	"correct_answer": "c"
+       },
+       {
+       	"question": "When was the very first episode of simpsons aired?",
+       	"answers": {
+       		"a": "1980",
+       		"b": "1989",
+       		"c": "1990",
+       		"d": "1991"
+       	},
+       	"correct_answer": "b"
+       },
+       {
+       	"question": "When was google founded in?",
+       	"answers": {
+       		"a": "1998",
+       		"b": "1991",
+       		"c": "1992",
+       		"d": "1995"
+       	},
+       	"correct_answer": "a"
+       },
+       {
+       	"question": "How old is the WWW?",
+       	"answers": {
+       		"a": "30 years",
+       		"b": "25 years",
+       		"c": "20 years",
+       		"d": "21 years"
+       	},
+       	"correct_answer": "a"
+       },
+       {
+       	"question": "What nationality is the creator of Ruby?",
+       	"answers": {
+       		"a": "American",
+       		"b": "French",
+       		"c": "Japanese",
+       		"d": "Chinese"
+       	},
+       	"correct_answer": "c"
+       },
+       {
+       	"question": "What TV show portrays a anti-hero hacker?",
+       	"answers": {
+       		"a": "Mr. Robot",
+       		"b": "Counterpart",
+       		"c": "Game of thrones",
+       		"d": "Crashing"
+       	},
+       	"correct_answer": "a"
+       },
+       {
+       	"question": "Where can you watch Westworld?",
+       	"answers": {
+       		"a": "Netflix",
+       		"b": "HBO",
+       		"c": "Starz",
+       		"d": "USA"
+       	},
+       	"correct_answer": "b"
+       },
+       {
+       "question": "When was Marvel comics founded in?",
+       	"answers": {
+       		"a": "1939",
+       		"b": "1941",
+       		"c": "1951",
+       		"d": "1955"
+       	},
+       	"correct_answer": "a"
+       },
+       {
+       "question": "Who acquired Netscape?",
+       	"answers": {
+       		"a": "F5",
+       		"b": "Microsoft",
+       		"c": "IBM",
+       		"d": "AOL"
+       	},
+       	"correct_answer": "d"
+       },
+       {
+       "question": "What color is the sky?",
+       	"answers": {
+       		"a": "Red",
+       		"b": "Blue",
+       		"c": "Purple",
+       		"d": "Green"
+       	},
+       	"correct_answer": "b"
+       },
+       {
+        "question": "What institution manages the standard for WiFi?",
+       	"answers": {
+       		"a": "IEEE",
+       		"b": "Microsoft",
+       		"c": "Apple",
+       		"d": "Intel"
+       	},
+       	"correct_answer": "a"
+       },
+       {
+        "question": "Who is the publisher for Halo?",
+       	"answers": {
+       		"a": "Nintendo",
+       		"b": "Microsoft",
+       		"c": "EA",
+       		"d": "Activision"
+       	},
+       	"correct_answer": "b"
+       },
+       {
+        "question": "When did Super Smash Bros Melee get released?",
+       	"answers": {
+       		"a": "2008",
+       		"b": "2002",
+       		"c": "2005",
+       		"d": "2001"
+       	},
+       	"correct_answer": "d"
+       },
+       {
+        "question": "Who performed the first live concert in Fortnite?",
+       	"answers": {
+       		"a": "Tiesto",
+       		"b": "Bonobo",
+       		"c": "Astre",
+       		"d": "Marshmello"
+       	},
+       	"correct_answer": "d"
+       }
+   ]
+}
